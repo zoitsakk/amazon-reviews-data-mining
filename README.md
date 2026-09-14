@@ -50,7 +50,7 @@ Implemented three complementary recommendation strategies:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 .
 ├── 01_data_extraction_and_eda.ipynb      # ETL, data cleaning & exploratory analysis
